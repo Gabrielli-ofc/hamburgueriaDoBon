@@ -1,0 +1,35 @@
+id,nome,tipo,valor
+1,pão brioche,pão,12.0
+2,pão francês,pão,12.0
+3,carne bovina,carne,43.9
+4,carne suína,carne,45.0
+5,carne vegana,carne,38.0
+6,alface americana,verdura,7.0
+7,rúcula,verdura,9.0
+8,repolho roxo,legume,10.0
+9,cebola roxa,legume,8.0
+10,queijo prato,laticinio,14.0
+11,queijo gorgonzola,laticinio,17.5
+12,queijo mussarela,laticinio,10.0
+13,catupiry,laticinio,14.5
+14,bacon,carne,15.0
+15,barbecue,molho,11.3
+16,ketchup,molho,11.5
+17,mostarda,molho,11.0
+18,maionese tradicional,molho,11.99
+19,Maionese de bacon defumada,molho,12.0
+20,maionese de azeitona preta,molho,12.5
+21,maionese de salsinha,molho,11.0
+22,nuggets,acompanhamento,12.0
+23,batata frita,acompanhamento,11.5
+24,caixa de nuggets,pack,6.0
+25,caixa de batata frita,pack,6.0
+26,farinha panko,farinha de rosca,14.99
+27,coca-cola tradicional 2l,bebida,15.0
+28,coca-cola zero açúcar 2l,bebida,16.5
+29,"Coca-cola Tradicional 1,5l",bebida,12.5
+30,"coca-cola zero açúcar 1,5l",bebida,13.99
+31,coca-cola tradicional 600ml,bebida,8.5
+32,coca-cola zero açúcar 600ml,bebida,9.89
+33,coca-cola tradicional lata 350ml,bebida,5.0
+34,coca-cola zero açúcar lata 350ml,bebida,5.89
